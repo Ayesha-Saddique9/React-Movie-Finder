@@ -13,19 +13,19 @@ A highly responsive and interactive web application built with **React.js** that
 
 ### 1. Main Search Interface
 <!-- Add your main UI screenshot below this line -->
-![Main UI](./main-ui.png)
+![Main UI](./ui.png)
 
 ### 2. Search Results & Movie Cards
 <!-- Add your cards/results screenshot below this line -->
-![Search Results](./search-results.png)
+![Search Results](./result.png)
 
 ### 3. Dynamic Movie Details Page
 <!-- Add your movie details screenshot below this line -->
-![Movie Details](./movie-details.png)
+![Movie Details](./details.png)
 
 ### 4. About Page
 <!-- Add your about page screenshot below this line -->
-![About Page](./about-page.png)
+![About Page](./about.png)
 
 ---
 
@@ -71,16 +71,21 @@ npm install
 ```
 ---
 
-👩‍💻 Author
-Ayesha Saddique
-
-Role: Frontend Web Developer
-GitHub: @Ayesha-Saddique9
-LinkedIn: Connect with me on LinkedIn
-⭐ If you found this project helpful or insightful, please consider giving it a star!
-
 **4. Start the local development server:**
 ```bash
 npm install
 ```
 ---
+
+## 👩‍💻 Author
+
+**Ayesha Saddique**  
+Frontend Web Developer
+
+🔗 GitHub: https://github.com/Ayesha-Saddique9
+
+💼 LinkedIn: https://linkedin.com/in/ayesha-saddique9
+
+📧 Email: ayeshasaddique70@gmail.com
+
+⭐ If you found this project useful, consider giving it a star!
