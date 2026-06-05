@@ -25,7 +25,7 @@ A highly responsive and interactive web application built with **React.js** that
 
 ### 4. About Page
 <!-- Add your about page screenshot below this line -->
-![About Page](./about.png)
+![About Page](./src/about.png)
 
 ---
 
