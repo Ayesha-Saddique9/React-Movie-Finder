@@ -13,15 +13,15 @@ A highly responsive and interactive web application built with **React.js** that
 
 ### 1. Main Search Interface
 <!-- Add your main UI screenshot below this line -->
-![Main UI](./ui.png)
+![Main UI](./src/ui.png)
 
 ### 2. Search Results & Movie Cards
 <!-- Add your cards/results screenshot below this line -->
-![Search Results](./result.png)
+![Search Results](./src/result.png)
 
 ### 3. Dynamic Movie Details Page
 <!-- Add your movie details screenshot below this line -->
-![Movie Details](./details.png)
+![Movie Details](./src/details.png)
 
 ### 4. About Page
 <!-- Add your about page screenshot below this line -->
